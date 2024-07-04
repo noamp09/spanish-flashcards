@@ -1,0 +1,1600 @@
+[{
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed54"
+    },
+    "spanish": "Hola",
+    "english": "Hello",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed55"
+    },
+    "spanish": "Adiós",
+    "english": "Goodbye",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed56"
+    },
+    "spanish": "Sí",
+    "english": "Yes",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed57"
+    },
+    "spanish": "No",
+    "english": "No",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed58"
+    },
+    "spanish": "Gracias",
+    "english": "Thank you",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed59"
+    },
+    "spanish": "Por favor",
+    "english": "Please",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed5a"
+    },
+    "spanish": "De nada",
+    "english": "You're welcome",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed5b"
+    },
+    "spanish": "Lo siento",
+    "english": "Sorry",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed5c"
+    },
+    "spanish": "¿Cómo estás?",
+    "english": "How are you?",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed5d"
+    },
+    "spanish": "Estoy bien",
+    "english": "I'm fine",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed5e"
+    },
+    "spanish": "Me llamo...",
+    "english": "My name is...",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed5f"
+    },
+    "spanish": "¿Cómo te llamas?",
+    "english": "What is your name?",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed60"
+    },
+    "spanish": "Yo",
+    "english": "I",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed61"
+    },
+    "spanish": "Tú",
+    "english": "You (informal)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed62"
+    },
+    "spanish": "Él",
+    "english": "He",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed63"
+    },
+    "spanish": "Ella",
+    "english": "She",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed64"
+    },
+    "spanish": "Nosotros/as",
+    "english": "We",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed65"
+    },
+    "spanish": "Vosotros/as",
+    "english": "You (plural, informal)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed66"
+    },
+    "spanish": "Ellos",
+    "english": "They (masculine)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed67"
+    },
+    "spanish": "Ellas",
+    "english": "They (feminine)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed68"
+    },
+    "spanish": "Un/Una",
+    "english": "A/An",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed69"
+    },
+    "spanish": "El",
+    "english": "The (masculine)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed6a"
+    },
+    "spanish": "La",
+    "english": "The (feminine)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed6b"
+    },
+    "spanish": "De",
+    "english": "Of",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed6c"
+    },
+    "spanish": "En",
+    "english": "In",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed6d"
+    },
+    "spanish": "Y",
+    "english": "And",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed6e"
+    },
+    "spanish": "Pero",
+    "english": "But",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed6f"
+    },
+    "spanish": "Para",
+    "english": "For",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed70"
+    },
+    "spanish": "Un",
+    "english": "One (masculine)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed71"
+    },
+    "spanish": "Una",
+    "english": "One (feminine)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed72"
+    },
+    "spanish": "Dos",
+    "english": "Two",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed73"
+    },
+    "spanish": "Tres",
+    "english": "Three",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed74"
+    },
+    "spanish": "Cuatro",
+    "english": "Four",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed75"
+    },
+    "spanish": "Cinco",
+    "english": "Five",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed76"
+    },
+    "spanish": "Seis",
+    "english": "Six",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed77"
+    },
+    "spanish": "Siete",
+    "english": "Seven",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed78"
+    },
+    "spanish": "Ocho",
+    "english": "Eight",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed79"
+    },
+    "spanish": "Nueve",
+    "english": "Nine",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed7a"
+    },
+    "spanish": "Diez",
+    "english": "Ten",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed7b"
+    },
+    "spanish": "Está",
+    "english": "Is (feminine singular)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed7c"
+    },
+    "spanish": "Están",
+    "english": "Are (plural)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed7d"
+    },
+    "spanish": "Soy",
+    "english": "I am",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed7e"
+    },
+    "spanish": "Tiene",
+    "english": "Has (he/she/it)",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed7f"
+    },
+    "spanish": "Tenemos",
+    "english": "We have",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed80"
+    },
+    "spanish": "Habla",
+    "english": "Speaks",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed81"
+    },
+    "spanish": "Hablo",
+    "english": "I speak",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed82"
+    },
+    "spanish": "¿Dónde está...?",
+    "english": "Where is...?",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed83"
+    },
+    "spanish": "¿Qué es esto?",
+    "english": "What is this?",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed84"
+    },
+    "spanish": "Agua",
+    "english": "Water",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed85"
+    },
+    "spanish": "Café",
+    "english": "Coffee",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed86"
+    },
+    "spanish": "Té",
+    "english": "Tea",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed87"
+    },
+    "spanish": "Vino",
+    "english": "Wine",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed88"
+    },
+    "spanish": "Cerveza",
+    "english": "Beer",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed89"
+    },
+    "spanish": "Comida",
+    "english": "Food",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed8a"
+    },
+    "spanish": "Pan",
+    "english": "Bread",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed8b"
+    },
+    "spanish": "Arroz",
+    "english": "Rice",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed8c"
+    },
+    "spanish": "Carne",
+    "english": "Meat",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed8d"
+    },
+    "spanish": "Pollo",
+    "english": "Chicken",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed8e"
+    },
+    "spanish": "Pescado",
+    "english": "Fish",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed8f"
+    },
+    "spanish": "Fruta",
+    "english": "Fruit",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed90"
+    },
+    "spanish": "Verdura",
+    "english": "Vegetable",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed91"
+    },
+    "spanish": "Leche",
+    "english": "Milk",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed92"
+    },
+    "spanish": "Queso",
+    "english": "Cheese",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed93"
+    },
+    "spanish": "Huevo",
+    "english": "Egg",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed94"
+    },
+    "spanish": "Azúcar",
+    "english": "Sugar",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed95"
+    },
+    "spanish": "Sal",
+    "english": "Salt",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed96"
+    },
+    "spanish": "Aceite",
+    "english": "Oil",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed97"
+    },
+    "spanish": "Mantequilla",
+    "english": "Butter",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed98"
+    },
+    "spanish": "Chocolate",
+    "english": "Chocolate",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed99"
+    },
+    "spanish": "Helado",
+    "english": "Ice cream",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed9a"
+    },
+    "spanish": "Café",
+    "english": "Coffee",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed9b"
+    },
+    "spanish": "Té",
+    "english": "Tea",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed9c"
+    },
+    "spanish": "Vino",
+    "english": "Wine",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed9d"
+    },
+    "spanish": "Cerveza",
+    "english": "Beer",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed9e"
+    },
+    "spanish": "Restaurante",
+    "english": "Restaurant",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aed9f"
+    },
+    "spanish": "Hotel",
+    "english": "Hotel",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda0"
+    },
+    "spanish": "Banco",
+    "english": "Bank",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda1"
+    },
+    "spanish": "Hospital",
+    "english": "Hospital",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda2"
+    },
+    "spanish": "Aeropuerto",
+    "english": "Airport",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda3"
+    },
+    "spanish": "Estación de tren",
+    "english": "Train station",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda4"
+    },
+    "spanish": "Taxi",
+    "english": "Taxi",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda5"
+    },
+    "spanish": "Autobús",
+    "english": "Bus",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda6"
+    },
+    "spanish": "Coche",
+    "english": "Car",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda7"
+    },
+    "spanish": "Motocicleta",
+    "english": "Motorcycle",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda8"
+    },
+    "spanish": "Bicicleta",
+    "english": "Bicycle",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeda9"
+    },
+    "spanish": "Calle",
+    "english": "Street",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedaa"
+    },
+    "spanish": "Avenida",
+    "english": "Avenue",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedab"
+    },
+    "spanish": "Plaza",
+    "english": "Square",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedac"
+    },
+    "spanish": "Parque",
+    "english": "Park",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedad"
+    },
+    "spanish": "Playa",
+    "english": "Beach",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedae"
+    },
+    "spanish": "Montaña",
+    "english": "Mountain",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedaf"
+    },
+    "spanish": "Río",
+    "english": "River",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb0"
+    },
+    "spanish": "Lago",
+    "english": "Lake",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb1"
+    },
+    "spanish": "Ciudad",
+    "english": "City",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb2"
+    },
+    "spanish": "Pueblo",
+    "english": "Town",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb3"
+    },
+    "spanish": "País",
+    "english": "Country",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb4"
+    },
+    "spanish": "Mundo",
+    "english": "World",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb5"
+    },
+    "spanish": "Sol",
+    "english": "Sun",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb6"
+    },
+    "spanish": "Luna",
+    "english": "Moon",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb7"
+    },
+    "spanish": "Estrella",
+    "english": "Star",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb8"
+    },
+    "spanish": "Cielo",
+    "english": "Sky",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedb9"
+    },
+    "spanish": "Nube",
+    "english": "Cloud",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedba"
+    },
+    "spanish": "Lluvia",
+    "english": "Rain",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedbb"
+    },
+    "spanish": "Nieve",
+    "english": "Snow",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedbc"
+    },
+    "spanish": "Frío",
+    "english": "Cold",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedbd"
+    },
+    "spanish": "Calor",
+    "english": "Hot",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedbe"
+    },
+    "spanish": "Bueno",
+    "english": "Good",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedbf"
+    },
+    "spanish": "Malo",
+    "english": "Bad",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc0"
+    },
+    "spanish": "Grande",
+    "english": "Big",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc1"
+    },
+    "spanish": "Pequeño",
+    "english": "Small",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc2"
+    },
+    "spanish": "Nuevo",
+    "english": "New",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc3"
+    },
+    "spanish": "Viejo",
+    "english": "Old",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc4"
+    },
+    "spanish": "Hermoso",
+    "english": "Beautiful",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc5"
+    },
+    "spanish": "Feo",
+    "english": "Ugly",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc6"
+    },
+    "spanish": "Feliz",
+    "english": "Happy",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc7"
+    },
+    "spanish": "Triste",
+    "english": "Sad",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc8"
+    },
+    "spanish": "Libre",
+    "english": "Free",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedc9"
+    },
+    "spanish": "Ocupado",
+    "english": "Busy",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedca"
+    },
+    "spanish": "Limpio",
+    "english": "Clean",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedcb"
+    },
+    "spanish": "Sucio",
+    "english": "Dirty",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedcc"
+    },
+    "spanish": "Interesante",
+    "english": "Interesting",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedcd"
+    },
+    "spanish": "Aburrido",
+    "english": "Boring",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedce"
+    },
+    "spanish": "Fácil",
+    "english": "Easy",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedcf"
+    },
+    "spanish": "Difícil",
+    "english": "Difficult",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd0"
+    },
+    "spanish": "Rápido",
+    "english": "Fast",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd1"
+    },
+    "spanish": "Lento",
+    "english": "Slow",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd2"
+    },
+    "spanish": "Alto",
+    "english": "Tall",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd3"
+    },
+    "spanish": "Bajo",
+    "english": "Short",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd4"
+    },
+    "spanish": "Grueso",
+    "english": "Fat",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd5"
+    },
+    "spanish": "Delgado",
+    "english": "Thin",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd6"
+    },
+    "spanish": "Joven",
+    "english": "Young",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd7"
+    },
+    "spanish": "Viejo",
+    "english": "Old",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd8"
+    },
+    "spanish": "Libro",
+    "english": "Book",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedd9"
+    },
+    "spanish": "Película",
+    "english": "Movie",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedda"
+    },
+    "spanish": "Música",
+    "english": "Music",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeddb"
+    },
+    "spanish": "Deporte",
+    "english": "Sport",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeddc"
+    },
+    "spanish": "Arte",
+    "english": "Art",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeddd"
+    },
+    "spanish": "Comida",
+    "english": "Food",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedde"
+    },
+    "spanish": "Bebida",
+    "english": "Drink",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeddf"
+    },
+    "spanish": "Dinero",
+    "english": "Money",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede0"
+    },
+    "spanish": "Tiempo",
+    "english": "Time",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede1"
+    },
+    "spanish": "Amor",
+    "english": "Love",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede2"
+    },
+    "spanish": "Familia",
+    "english": "Family",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede3"
+    },
+    "spanish": "Amigo",
+    "english": "Friend",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede4"
+    },
+    "spanish": "Trabajo",
+    "english": "Job",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede5"
+    },
+    "spanish": "Escuela",
+    "english": "School",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede6"
+    },
+    "spanish": "Casa",
+    "english": "House",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede7"
+    },
+    "spanish": "Felicidad",
+    "english": "Happiness",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede8"
+    },
+    "spanish": "Tristeza",
+    "english": "Sadness",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aede9"
+    },
+    "spanish": "Miedo",
+    "english": "Fear",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedea"
+    },
+    "spanish": "Ira",
+    "english": "Anger",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedeb"
+    },
+    "spanish": "Sorpresa",
+    "english": "Surprise",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedec"
+    },
+    "spanish": "Vergüenza",
+    "english": "Shame",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aeded"
+    },
+    "spanish": "Hablar",
+    "english": "To speak",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedee"
+    },
+    "spanish": "Escuchar",
+    "english": "To listen",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedef"
+    },
+    "spanish": "Leer",
+    "english": "To read",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf0"
+    },
+    "spanish": "Escribir",
+    "english": "To write",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf1"
+    },
+    "spanish": "Ver",
+    "english": "To see",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf2"
+    },
+    "spanish": "Oír",
+    "english": "To hear",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf3"
+    },
+    "spanish": "Oler",
+    "english": "To smell",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf4"
+    },
+    "spanish": "Gustar",
+    "english": "To taste",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf5"
+    },
+    "spanish": "Tocar",
+    "english": "To touch",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf6"
+    },
+    "spanish": "Pensar",
+    "english": "To think",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf7"
+    },
+    "spanish": "Sentir",
+    "english": "To feel",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf8"
+    },
+    "spanish": "Vivir",
+    "english": "To live",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedf9"
+    },
+    "spanish": "Morir",
+    "english": "To die",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedfa"
+    },
+    "spanish": "Comer",
+    "english": "To eat",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedfb"
+    },
+    "spanish": "Beber",
+    "english": "To drink",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedfc"
+    },
+    "spanish": "Dormir",
+    "english": "To sleep",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedfd"
+    },
+    "spanish": "Soñar",
+    "english": "To dream",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedfe"
+    },
+    "spanish": "Reír",
+    "english": "To laugh",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aedff"
+    },
+    "spanish": "Llorar",
+    "english": "To cry",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee00"
+    },
+    "spanish": "Trabajar",
+    "english": "To work",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee01"
+    },
+    "spanish": "Estudiar",
+    "english": "To study",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee02"
+    },
+    "spanish": "Jugar",
+    "english": "To play",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee03"
+    },
+    "spanish": "Viajar",
+    "english": "To travel",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee04"
+    },
+    "spanish": "Amar",
+    "english": "To love",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee05"
+    },
+    "spanish": "Odiar",
+    "english": "To hate",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee06"
+    },
+    "spanish": "Querer",
+    "english": "To want",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee07"
+    },
+    "spanish": "Necesitar",
+    "english": "To need",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee08"
+    },
+    "spanish": "Poder",
+    "english": "To be able to",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee09"
+    },
+    "spanish": "Saber",
+    "english": "To know",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee0a"
+    },
+    "spanish": "Creer",
+    "english": "To believe",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee0b"
+    },
+    "spanish": "Tener",
+    "english": "To have",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee0c"
+    },
+    "spanish": "Ser",
+    "english": "To be",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee0d"
+    },
+    "spanish": "Estar",
+    "english": "To be",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee0e"
+    },
+    "spanish": "Ir",
+    "english": "To go",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee0f"
+    },
+    "spanish": "Venir",
+    "english": "To come",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee10"
+    },
+    "spanish": "Quedar",
+    "english": "To stay",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee11"
+    },
+    "spanish": "Volver",
+    "english": "To return",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee12"
+    },
+    "spanish": "Llevar",
+    "english": "To take",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee13"
+    },
+    "spanish": "Traer",
+    "english": "To bring",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee14"
+    },
+    "spanish": "Dar",
+    "english": "To give",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee15"
+    },
+    "spanish": "Pedir",
+    "english": "To ask",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee16"
+    },
+    "spanish": "Decir",
+    "english": "To say",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee17"
+    },
+    "spanish": "Responder",
+    "english": "To answer",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee18"
+    },
+    "spanish": "Preguntar",
+    "english": "To ask",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee19"
+    },
+    "spanish": "Llamar",
+    "english": "To call",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee1a"
+    },
+    "spanish": "Pensar",
+    "english": "To think",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "66841a1fa6767e4b643aee1b"
+    },
+    "spanish": "Creer",
+    "english": "To believe",
+    "__v": 0
+  }]
