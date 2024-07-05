@@ -7,13 +7,11 @@ function App() {
   return (
     <Router>
       <Navbar />
-      <div className='content'>
         <Routes>
           <Route path='/' element={<HomePage />} />
           <Route path='/flashcard' element={<FlashcardPage />} />
           <Route path='*' element={<div>Page Not Found</div>} />
         </Routes>
-      </div>
     </Router>
   );
 }

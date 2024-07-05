@@ -1,19 +1,12 @@
 
-.app-container {
-    text-align: center; /* Center aligns all content horizontally */
-  }
-  
-  .btn {
-    /* background: var(--fifth); */
-    background: radial-gradient(var(--fourth), var(--fifth));
-    font-size: 1rem;
-    color: var(--secondary);
-    font-weight: bold;
-    border: none;
-    border-radius: 3ch;
-    width: 20ch;
-    height: 10ch;
-  }
+.vertical-container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
   
   .flip-card {
     color: var(--fourth);

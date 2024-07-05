@@ -21,20 +21,50 @@
   --third: #c5c6c7;
   --fourth: #66fcf1;
   --fifth: #45a29e;
-  --light: #ebe9e1;
 }
 
 * {
+  font-family: "Oswald", sans-serif;
   margin: 0;
   padding: 0;
+  color: var(--third);
 }
 
 body {
   background: var(--primary);
   font-family: montserrat, sans-serif;
-  width: 100%;
   min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+}
+
+.btn {
+  /* background: var(--fifth); */
+  background: radial-gradient(var(--fourth), var(--fifth));
+  font-size: 1rem;
+  color: var(--secondary);
+  font-weight: bold;
+  border: none;
+  border-radius: 3ch;
+  width: 20ch;
+  height: 10ch;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: var(--fourth);
+}
+
+h1 {
+  font-size: 4rem;
+  color: var(--fourth);
+  font-weight: bold;
+}
+
+@media (max-width: 800px) {
+ h1{
+  font-size: 2rem;
+ } 
 }

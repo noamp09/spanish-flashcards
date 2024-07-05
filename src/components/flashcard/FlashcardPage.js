@@ -19,7 +19,7 @@ export default function FlashcardPage() {
   }, []);
 
   return (
-    <div className="app-container">
+    <div className="vertical-container">
       {randomDoc ? (
         <Flashcard
           english={randomDoc.english}
