@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './flashcard.css'
 
 export default function Flashcard({ english, spanish }) {
   const [isFlipped, setIsFlipped] = useState(false);
