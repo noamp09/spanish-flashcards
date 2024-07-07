@@ -9,7 +9,7 @@ function HomePage() {
   <div id="top">
           <nav id="header">
               <a id='logo' href='/'><img src={logo} alt='logo'/>{' '}Tucabulario</a>
-              <a href='/flashcard'><button className='btn'>Go Practicing</button></a>
+              <a href='#topics'><button className='btn'>Go Practicing</button></a>
           </nav>
 
           {/* <div class="hero">
@@ -26,7 +26,7 @@ function HomePage() {
       <div id="topics">
           <h1>Topics / Temas</h1>
           <div id='horizontal-container'>
-            <a href='top-200' className='topic'>top 200</a>
+            <a href='top-200' className='topic'>200 basic</a>
             <a href="animals" className='topic'>animals</a>
             <a href="colors" className='topic'>colors</a>
           </div>

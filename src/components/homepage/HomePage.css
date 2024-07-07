@@ -1,9 +1,12 @@
 nav {
-    min-width: 45%;
+    background-color: var(--primary);
+    width: 100%;
     align-items: center;
     display: flex;
     justify-content: space-around;
-    padding: 0 15px;
+    padding: 20px;
+    position: fixed;
+    height: 12ch;
 }
 
 #logo {
@@ -19,6 +22,7 @@ nav {
 }
 
 #hero {
+  margin-top: 200px;
     min-height: 800px;
     display: flex;
     align-items: center;
@@ -41,7 +45,6 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 30px; /* Updated padding value */
     overflow-wrap: break-word;
     gap: 20px;
   }
@@ -50,12 +53,6 @@ nav {
     font-size: 2rem;
   }
   /* header section */
-  
-  .header {
-    display: flex;
-    justify-content: space-between; /* Justifies elements horizontally */
-    align-items: center;
-  }
 
   #header > a {
     font-weight: bold;
@@ -76,6 +73,7 @@ nav {
   }
 
   .topic {
+    font-size: 1.5rem;
     color: var(--third);
     margin-top: 50px;
     height: 150px;
@@ -104,8 +102,7 @@ nav {
       flex: 1; /* Allow full width when screen is narrower */
     }
     nav {
-        width: 95%;
-        justify-content: space-between;
+      height: 8ch;
     }
     #sentence {
         font-size: 1.4rem;
@@ -114,6 +111,7 @@ nav {
         margin-bottom: 200px;
     }
     .topic {
+      font-size: 1rem;
         margin-top: 25px;
         height: 70px;
         width: 70px;
