@@ -12,11 +12,6 @@ function HomePage() {
               <a href='#topics'><button className='btn'>Go Practicing</button></a>
           </nav>
 
-          {/* <div class="hero">
-                  <h2 class="main-text">Welcome to our Spanish Learning Website!</h2>
-                  <div class="secondary-text"> Start your journey to expand your Spanish vocabulary with us. Whether you are a beginner 
-                    or looking to improve your skills, we have resources for you.</div>
-          </div> */}
           <div id='hero'>
             <img id='flag' src={flag} alt='Spanish Flag' />
             <div id='entertaining'>An entertaining and interactive way to expand your vocabulary!</div>
@@ -26,10 +21,13 @@ function HomePage() {
       <div id="topics">
           <h1>Topics / Temas</h1>
           <div id='horizontal-container'>
-            <a href='top-200' className='topic'>200 basic</a>
             <a href="animals" className='topic'>animals</a>
             <a href="colors" className='topic'>colors</a>
+            <a href="countries" className='topic'>countries</a>
           </div>
+          <a href='/topics'>
+            <button className='btn'>see all topics</button>
+          </a>
       </div>
 
           <div id='quote'>

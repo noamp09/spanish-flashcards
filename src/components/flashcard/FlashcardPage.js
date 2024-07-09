@@ -35,7 +35,7 @@ export default function FlashcardPage({ topic }) {
         <button onClick={handleNextWord} className='btn'>
           Next Word
         </button>
-        <a href='/#topics'>
+        <a href='/topics'>
           <button className='btn'>
             try another topic
           </button>

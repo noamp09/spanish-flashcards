@@ -49,6 +49,10 @@ nav {
     gap: 20px;
   }
 
+  #quote {
+    margin-bottom: 200px;
+  }
+
   #sentence {
     font-size: 2rem;
   }
@@ -65,17 +69,20 @@ nav {
     align-items: center; /* Center content horizontally */
     flex-wrap: wrap;
     margin-bottom: 300px;
+    gap: 15px;
   }
 
   #horizontal-container {
     display: flex;
+    align-items: center;
+    justify-content: center;
     gap: 25px;
+    flex-wrap: wrap;
   }
 
   .topic {
     font-size: 1.5rem;
     color: var(--third);
-    margin-top: 50px;
     height: 150px;
     width: 150px;
     border-radius: 15px;
@@ -112,7 +119,6 @@ nav {
     }
     .topic {
       font-size: 1rem;
-        margin-top: 25px;
         height: 70px;
         width: 70px;
         border-radius: 5px;
