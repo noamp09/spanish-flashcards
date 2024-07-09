@@ -1,0 +1,142 @@
+[
+    {
+      "spanish": "casa",
+      "english": "house"
+    },
+    {
+      "spanish": "apartamento",
+      "english": "apartment"
+    },
+    {
+      "spanish": "habitación",
+      "english": "room"
+    },
+    {
+      "spanish": "cocina",
+      "english": "kitchen"
+    },
+    {
+      "spanish": "baño",
+      "english": "bathroom"
+    },
+    {
+      "spanish": "dormitorio",
+      "english": "bedroom"
+    },
+    {
+      "spanish": "sala de estar",
+      "english": "living room"
+    },
+    {
+      "spanish": "comedor",
+      "english": "dining room"
+    },
+    {
+      "spanish": "pasillo",
+      "english": "hallway"
+    },
+    {
+      "spanish": "cochera",
+      "english": "garage"
+    },
+    {
+      "spanish": "sótano",
+      "english": "basement"
+    },
+    {
+      "spanish": "ático",
+      "english": "attic"
+    },
+    {
+      "spanish": "balcón",
+      "english": "balcony"
+    },
+    {
+      "spanish": "jardín",
+      "english": "garden"
+    },
+    {
+      "spanish": "puerta",
+      "english": "door"
+    },
+    {
+      "spanish": "ventana",
+      "english": "window"
+    },
+    {
+      "spanish": "pared",
+      "english": "wall"
+    },
+    {
+      "spanish": "techo",
+      "english": "ceiling"
+    },
+    {
+      "spanish": "piso",
+      "english": "floor"
+    },
+    {
+      "spanish": "mueble",
+      "english": "furniture"
+    },
+    {
+      "spanish": "silla",
+      "english": "chair"
+    },
+    {
+      "spanish": "mesa",
+      "english": "table"
+    },
+    {
+      "spanish": "sofá",
+      "english": "sofa"
+    },
+    {
+      "spanish": "cama",
+      "english": "bed"
+    },
+    {
+      "spanish": "armario",
+      "english": "closet"
+    },
+    {
+      "spanish": "estantería",
+      "english": "shelf"
+    },
+    {
+      "spanish": "lámpara",
+      "english": "lamp"
+    },
+    {
+      "spanish": "alfombra",
+      "english": "rug"
+    },
+    {
+      "spanish": "cortina",
+      "english": "curtain"
+    },
+    {
+      "spanish": "nevera",
+      "english": "refrigerator"
+    },
+    {
+      "spanish": "estufa",
+      "english": "stove"
+    },
+    {
+      "spanish": "horno",
+      "english": "oven"
+    },
+    {
+      "spanish": "lavadora",
+      "english": "washing machine"
+    },
+    {
+      "spanish": "aspiradora",
+      "english": "vacuum cleaner"
+    },
+    {
+      "spanish": "microondas",
+      "english": "microwave"
+    }
+  ]

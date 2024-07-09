@@ -1,0 +1,170 @@
+[
+    {
+      "spanish": "nota",
+      "english": "note"
+    },
+    {
+      "spanish": "escala",
+      "english": "scale"
+    },
+    {
+      "spanish": "clave",
+      "english": "clef"
+    },
+    {
+      "spanish": "compás",
+      "english": "time signature"
+    },
+    {
+      "spanish": "melodía",
+      "english": "melody"
+    },
+    {
+      "spanish": "armonía",
+      "english": "harmony"
+    },
+    {
+      "spanish": "ritmo",
+      "english": "rhythm"
+    },
+    {
+      "spanish": "cuerdas",
+      "english": "strings (instrument category)"
+    },
+    {
+      "spanish": "violín",
+      "english": "violin"
+    },
+    {
+      "spanish": "viola",
+      "english": "viola"
+    },
+    {
+      "spanish": "violonchelo",
+      "english": "cello"
+    },
+    {
+      "spanish": "contrabajo",
+      "english": "double bass"
+    },
+    {
+      "spanish": "guitarra",
+      "english": "guitar"
+    },
+    {
+      "spanish": "bajo",
+      "english": "bass (electric bass)"
+    },
+    {
+      "spanish": "arpa",
+      "english": "harp"
+    },
+    {
+      "spanish": "viento",
+      "english": "wind (instrument category)"
+    },
+    {
+      "spanish": "flauta",
+      "english": "flute"
+    },
+    {
+      "spanish": "oboe",
+      "english": "oboe"
+    },
+    {
+      "spanish": "clarinete",
+      "english": "clarinet"
+    },
+    {
+      "spanish": "saxofón",
+      "english": "saxophone"
+    },
+    {
+      "spanish": "fagot",
+      "english": "bassoon"
+    },
+    {
+      "spanish": "trompeta",
+      "english": "trumpet"
+    },
+    {
+      "spanish": "trombón",
+      "english": "trombone"
+    },
+    {
+      "spanish": "tuba",
+      "english": "tuba"
+    },
+    {
+      "spanish": "percusión",
+      "english": "percussion (instrument category)"
+    },
+    {
+      "spanish": "batería",
+      "english": "drum set"
+    },
+    {
+      "spanish": "timbales",
+      "english": "timpani"
+    },
+    {
+      "spanish": "platillos",
+      "english": "cymbals"
+    },
+    {
+      "spanish": "caja",
+      "english": "snare drum"
+    },
+    {
+      "spanish": "congas",
+      "english": "congas"
+    },
+    {
+      "spanish": "tocar",
+      "english": "to play"
+    },
+    {
+      "spanish": "cantar",
+      "english": "to sing"
+    },
+    {
+      "spanish": "bailar",
+      "english": "to dance"
+    },
+    {
+      "spanish": "componer",
+      "english": "to compose"
+    },
+    {
+      "spanish": "escuchar",
+      "english": "to listen"
+    },
+    {
+      "spanish": "letra",
+      "english": "lyrics"
+    },
+    {
+      "spanish": "coro",
+      "english": "chorus"
+    },
+    {
+      "spanish": "estrofa",
+      "english": "stanza"
+    },
+    {
+      "spanish": "solista",
+      "english": "soloist"
+    },
+    {
+      "spanish": "orquesta",
+      "english": "orchestra"
+    },
+    {
+      "spanish": "grupo",
+      "english": "band"
+    },
+    {
+      "spanish": "pop",
+      "english": "pop"
+    }
+]  

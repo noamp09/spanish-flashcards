@@ -1,0 +1,162 @@
+[
+    {
+      "spanish": "mañana",
+      "english": "morning"
+    },
+    {
+      "spanish": "tarde",
+      "english": "afternoon"
+    },
+    {
+      "spanish": "noche",
+      "english": "night"
+    },
+    {
+      "spanish": "mediodía",
+      "english": "noon"
+    },
+    {
+      "spanish": "medianoche",
+      "english": "midnight"
+    },
+    {
+      "spanish": "hoy",
+      "english": "today"
+    },
+    {
+      "spanish": "ayer",
+      "english": "yesterday"
+    },
+    {
+      "spanish": "mañana (futuro)",
+      "english": "tomorrow"
+    },
+    {
+      "spanish": "pasado mañana",
+      "english": "day after tomorrow"
+    },
+    {
+      "spanish": "anoche",
+      "english": "last night"
+    },
+    {
+      "spanish": "tarde (hora)",
+      "english": "late (e.g., it's late - es tarde)"
+    },
+    {
+      "spanish": "temprano",
+      "english": "early"
+    },
+    {
+      "spanish": "a tiempo",
+      "english": "on time"
+    },
+    {
+      "spanish": "tarde (pasado)",
+      "english": "late (past tense - llegué tarde - I arrived late)"
+    },
+    {
+      "spanish": "pronto",
+      "english": "soon"
+    },
+    {
+      "spanish": "en este momento",
+      "english": "right now"
+    },
+    {
+      "spanish": "ahora mismo",
+      "english": "right now"
+    },
+    {
+      "spanish": "cada día",
+      "english": "every day"
+    },
+    {
+      "spanish": "todos los días",
+      "english": "every day"
+    },
+    {
+      "spanish": "cada semana",
+      "english": "every week"
+    },
+    {
+      "spanish": "todas las semanas",
+      "english": "every week"
+    },
+    {
+      "spanish": "cada mes",
+      "english": "every month"
+    },
+    {
+      "spanish": "todos los meses",
+      "english": "every month"
+    },
+    {
+      "spanish": "cada año",
+      "english": "every year"
+    },
+    {
+      "spanish": "todos los años",
+      "english": "every year"
+    },
+    {
+      "spanish": "una vez",
+      "english": "once"
+    },
+    {
+      "spanish": "dos veces",
+      "english": "twice"
+    },
+    {
+      "spanish": "tres veces",
+      "english": "three times"
+    },
+    {
+      "spanish": "algunas veces",
+      "english": "sometimes"
+    },
+    {
+      "spanish": "nunca",
+      "english": "never"
+    },
+    {
+      "spanish": "¿Qué hora es?",
+      "english": "What time is it?"
+    },
+    {
+      "spanish": "la una",
+      "english": "one o'clock"
+    },
+    {
+      "spanish": "las dos",
+      "english": "two o'clock"
+    },
+    {
+      "spanish": "las tres",
+      "english": "three o'clock"
+    },
+    {
+      "spanish": "las cuatro",
+      "english": "four o'clock"
+    },
+    {
+      "spanish": "las cinco",
+      "english": "five o'clock"
+    },
+    {
+      "spanish": "las seis",
+      "english": "six o'clock"
+    },
+    {
+      "spanish": "las siete",
+      "english": "seven o'clock"
+    },
+    {
+      "spanish": "las ocho",
+      "english": "eight o'clock"
+    },
+    {
+      "spanish": "las nueve",
+      "english": "nine o'clock"
+    }
+]  

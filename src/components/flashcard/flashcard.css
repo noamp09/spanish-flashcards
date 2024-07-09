@@ -1,3 +1,10 @@
+.top-right {
+  margin: 10px;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
 
 .vertical-container {
   width: 100%;

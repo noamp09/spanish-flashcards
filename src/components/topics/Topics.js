@@ -17,6 +17,12 @@ function TopicsPage() {
           <a href="foods" className='topic'>foods</a>
           <a href="weather" className='topic'>weather</a>
           <a href="basic-adjectives" className='topic'>basic adj.</a>
+          <a href="daily-routines" className='topic'>daily routine</a>
+          <a href="music" className='topic'>music</a>
+          <a href="time" className='topic'>time</a>
+          <a href="house-stuff" className='topic'>house stuff</a>
+          <a href="sports" className='topic'>sports</a>
+          <a href="clothes" className='topic'>clothes</a>
         </div>
 
         <a href='/'>
