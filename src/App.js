@@ -7,6 +7,12 @@ import colors from './colors.json'
 import numbers_to_20 from './numbers_to_20.json'
 import countries from './countries.json'
 import TopicsPage from './components/topics/Topics';
+import greetings from './greetings.json'
+import family from './family.json'
+import body_parts from './body_parts.json'
+import foods from './foods.json'
+import weather from './weather.json'
+import basic_adjectives from './basic_adjectives.json'
 
 function App() {
   return (
@@ -18,6 +24,12 @@ function App() {
         <Route path='/colors' element={<FlashcardPage topic={colors} />} />
         <Route path='/numbers-to-20' element={<FlashcardPage topic={numbers_to_20} />} />
         <Route path='/countries' element={<FlashcardPage topic={countries} />} />
+        <Route path='/greetings' element={<FlashcardPage topic={greetings} />} />
+        <Route path='/family' element={<FlashcardPage topic={family} />} />
+        <Route path='/body-parts' element={<FlashcardPage topic={body_parts} />} />
+        <Route path='/foods' element={<FlashcardPage topic={foods} />} />
+        <Route path='/weather' element={<FlashcardPage topic={weather} />} />
+        <Route path='/basic-adjectives' element={<FlashcardPage topic={basic_adjectives} />} />
         <Route path='/topics' element={<TopicsPage />} />
         <Route path='*' element={<div>Page Not Found</div>} />
       </Routes>

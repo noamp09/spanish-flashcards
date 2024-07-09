@@ -1,0 +1,79 @@
+[
+    {
+      "spanish": "¡Hola!",
+      "english": "Hello!"
+    },
+    {
+      "spanish": "¡Buenos días!",
+      "english": "Good morning!"
+    },
+    {
+      "spanish": "¡Buenas tardes!",
+      "english": "Good afternoon!"
+    },
+    {
+      "spanish": "¡Buenas noches!",
+      "english": "Good evening!"
+    },
+    {
+      "spanish": "¿Cómo estás?",
+      "english": "How are you? (Informal)"
+    },
+    {
+      "spanish": "¿Cómo está usted?",
+      "english": "How are you? (Formal)"
+    },
+    {
+      "spanish": "Muy bien, gracias. ¿Y tú?",
+      "english": "Very well, thank you. And you? (Informal)"
+    },
+    {
+      "spanish": "Muy bien, gracias. ¿Y usted?",
+      "english": "Very well, thank you. And you? (Formal)"
+    },
+    {
+      "spanish": "Me llamo...",
+      "english": "My name is..."
+    },
+    {
+      "spanish": "Mucho gusto",
+      "english": "Nice to meet you"
+    },
+    {
+      "spanish": "¿Cómo te llamas?",
+      "english": "What's your name? (Informal)"
+    },
+    {
+      "spanish": "¿Cómo se llama usted?",
+      "english": "What's your name? (Formal)"
+    },
+    {
+      "spanish": "Igualmente",
+      "english": "Likewise" 
+    },
+    {
+      "spanish": "¡Adiós!",
+      "english": "Goodbye! (Informal)"
+    },
+    {
+      "spanish": "Hasta luego",
+      "english": "See you later"
+    },
+    {
+      "spanish": "Hasta pronto",
+      "english": "See you soon"
+    },
+    {
+      "spanish": "Nos vemos",
+      "english": "See you (informal)" 
+    },
+    {
+      "spanish": "Cuídate",
+      "english": "Take care (Informal)"
+    },
+    {
+      "spanish": "Lo siento, no hablo mucho español",
+      "english": "I'm sorry, I don't speak much Spanish"
+    }
+  ]
+  

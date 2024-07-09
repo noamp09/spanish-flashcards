@@ -1,0 +1,99 @@
+[
+    {
+      "spanish": "el tiempo",
+      "english": "weather"
+    },
+    {
+      "spanish": "el clima",
+      "english": "climate"
+    },
+    {
+      "spanish": "sol",
+      "english": "sun"
+    },
+    {
+      "spanish": "soleado",
+      "english": "sunny"
+    },
+    {
+      "spanish": "nube",
+      "english": "cloud"
+    },
+    {
+      "spanish": "nublado",
+      "english": "cloudy"
+    },
+    {
+      "spanish": "lluvia",
+      "english": "rain"
+    },
+    {
+      "spanish": "lluvioso",
+      "english": "rainy"
+    },
+    {
+      "spanish": "nieve",
+      "english": "snow"
+    },
+    {
+      "spanish": "nevado",
+      "english": "snowy"
+    },
+    {
+      "spanish": "viento",
+      "english": "wind"
+    },
+    {
+      "spanish": "ventoso",
+      "english": "windy"
+    },
+    {
+      "spanish": "niebla",
+      "english": "fog"
+    },
+    {
+      "spanish": "neblinoso",
+      "english": "foggy"
+    },
+    {
+      "spanish": "calor",
+      "english": "heat"
+    },
+    {
+      "spanish": "caluroso",
+      "english": "hot"
+    },
+    {
+      "spanish": "frío",
+      "english": "cold"
+    },
+    {
+      "spanish": "frío",
+      "english": "cold"
+    },
+    {
+      "spanish": "húmedo",
+      "english": "humid"
+    },
+    {
+      "spanish": "humedad",
+      "english": "humidity"
+    },
+    {
+      "spanish": "tormenta",
+      "english": "storm"
+    },
+    {
+      "spanish": "relámpago",
+      "english": "lightning"
+    },
+    {
+      "spanish": "trueno",
+      "english": "thunder"
+    },
+    {
+      "spanish": "arcoíris",
+      "english": "rainbow"
+    }
+  ]
+  

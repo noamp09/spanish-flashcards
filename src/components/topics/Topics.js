@@ -11,6 +11,12 @@ function TopicsPage() {
           <a href="colors" className='topic'>colors</a>
           <a href="numbers-to-20" className='topic'>count to 20</a>
           <a href="countries" className='topic'>countries</a>
+          <a href="greetings" className='topic'>greetings</a>
+          <a href="family" className='topic'>family</a>
+          <a href="body-parts" className='topic'>body parts</a>
+          <a href="foods" className='topic'>foods</a>
+          <a href="weather" className='topic'>weather</a>
+          <a href="basic-adjectives" className='topic'>basic adj.</a>
         </div>
 
         <a href='/'>
