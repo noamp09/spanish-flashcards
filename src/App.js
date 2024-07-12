@@ -20,6 +20,7 @@ import time from './json/time.json';
 import house_stuff from './json/house_stuff.json';
 import sports from './json/sports.json';
 import clothes from './json/clothes.json';
+import vehicles from './json/vehicles.json'
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
         <Route path='/house-stuff' element={<FlashcardPage topic={house_stuff} />} />
         <Route path='/sports' element={<FlashcardPage topic={sports} />} />
         <Route path='/clothes' element={<FlashcardPage topic={clothes} />} />
+        <Route path='/vehicles' element={<FlashcardPage topic={vehicles} />} />
         <Route path='/favorites' element={<FlashcardPage topic="localstorage" />} />
         <Route path='/topics' element={<TopicsPage />} />
         <Route path='*' element={<div>Page Not Found</div>} />

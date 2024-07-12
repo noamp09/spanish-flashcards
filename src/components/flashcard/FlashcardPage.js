@@ -9,19 +9,28 @@ export default function FlashcardPage({ topic }) {
 
   const handleNextWord = () => {
     try {
+      let newWord;
+
       if (topic === 'localstorage') {
         const randomWord = getRandomWordFromLocalStorage();
         if (!randomWord) {
           throw new Error('No words found in local storage');
         }
-        setRandomDoc(randomWord);
+        newWord = randomWord;
       } else {
         if (!topic || topic.length === 0) {
           throw new Error('Invalid topic');
         }
         const randomIndex = Math.floor(Math.random() * topic.length);
         const randomDoc = topic[randomIndex];
-        setRandomDoc(randomDoc);
+        newWord = randomDoc;
+      }
+
+      // Check if the new word is already on the screen
+      if (!randomDoc || newWord.english !== randomDoc.english) {
+        setRandomDoc(newWord);
+      } else {
+        handleNextWord(); // Retry to get a different word
       }
     } catch (error) {
       console.error('Error loading topic:', error);
@@ -39,7 +48,8 @@ export default function FlashcardPage({ topic }) {
       ) : (
         <div>Loading...</div>
       )}
-
+      
+      <a id="fav-link" href='favorites'><img alt='favorites' src={star}></img></a>
       <div className='horizontal-container'>
         <button onClick={handleNextWord} className='btn'>
           Next Word
@@ -52,7 +62,6 @@ export default function FlashcardPage({ topic }) {
         <button className='btn' onClick={() => addToLocalStorageJSON(randomDoc?.spanish, randomDoc?.english)}>
           Add to Favourites
         </button>
-        <a className='top-right' href='favorites'><img alt='favorites' src={star}></img></a>
       </div>
     </div>
   );

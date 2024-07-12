@@ -1,6 +1,6 @@
 import './HomePage.css'
 import logo from '../../assets/logo.svg';
-import flag from '../../assets/flag.svg'
+import flag from '../../assets/flag.jpg'
 
 
 function HomePage() {
